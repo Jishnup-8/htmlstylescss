@@ -1,0 +1,49 @@
+.box1{
+    width: 200px;
+    height:200px;
+    background-color: bisque;
+    border-left-color:red ;
+    border-left-style: solid;
+    border-top-left-radius: 40px;
+    border-left-width: 30px;
+
+
+}
+
+
+
+.coin{
+    background-color: blue;
+    border-radius: 10px;
+    
+
+}
+/*:hover*/
+.coin:hover{
+    background-color: blueviolet;
+    
+}
+a:link{
+    color: red;
+
+}
+a:active{
+    background-color: blue;
+}
+input:focus{
+    outline:none;
+    background-color: aqua;
+    border: 2px solid blue;
+}
+p::first-letter{
+    font-size: 30px;
+    color: brown;
+    background-color:burlywood;
+}
+p::first-line{
+    font-size: large;
+    color: green;
+    background-color: greenyellow;
+}
+
+

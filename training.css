@@ -1,0 +1,25 @@
+.box2{
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    border-left-color: black;
+    border-left-style: solid;
+    border-top-left-radius: 50px;
+    border-left-width: 40px;
+    
+}
+.coin3{
+    background-color: aqua;
+    border-radius: 10px;
+
+}
+.coin3:hover{
+    background-color: blueviolet;
+}
+a:link{
+    color:red;
+}
+a:active{
+    background-color: blueviolet;
+}
+
